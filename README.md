@@ -1,5 +1,5 @@
 Hi there, my name is Alessio 👋
-:mortar_board: I'm a student of Informatics and Econometrics at the University of Gdansk, Poland
+🎓 I'm a student of Informatics and Econometrics at the University of Gdansk, Poland
 
 :office: I’m currently working with Vue.js and Nuxt to build modern web interfaces
 
